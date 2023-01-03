@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SDV-Registration/static/css/main.60959e07.css",
+    "main.js": "/SDV-Registration/static/js/main.400e92a4.js",
+    "static/media/img.png": "/SDV-Registration/static/media/img.c8967e1591d83b9872a7.png",
+    "index.html": "/SDV-Registration/index.html",
+    "main.60959e07.css.map": "/SDV-Registration/static/css/main.60959e07.css.map",
+    "main.400e92a4.js.map": "/SDV-Registration/static/js/main.400e92a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60959e07.css",
+    "static/js/main.400e92a4.js"
+  ]
+}
